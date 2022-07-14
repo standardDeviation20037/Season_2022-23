@@ -1,1 +1,2 @@
-# Season_2022-23
+# Welcome to the Repository for FTC Season 2022-23!
+
